@@ -1,7 +1,7 @@
 int main()
 {
 
-x=99;
+x=998;
 return 0;
 
 }
