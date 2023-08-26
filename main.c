@@ -1,9 +1,7 @@
 int main()
 {
 
-intx=1;
-inty=2;
-s=x+y;
+x=99;
 return 0;
 
 }
